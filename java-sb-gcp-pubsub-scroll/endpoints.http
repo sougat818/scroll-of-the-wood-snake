@@ -1,0 +1,5 @@
+### Health Check
+GET http://localhost:8080/actuator/health
+
+### Application Info
+GET http://localhost:8080/actuator/info 
